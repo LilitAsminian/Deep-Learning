@@ -3,3 +3,12 @@
 
 # Exclude dataset folder (optional if datasets are large or private)
 dataset/
+
+# Virtual environment files
+vae/
+.env/
+
+# Large binaries (optional, if any other large files are still tracked)
+*.dylib
+*.so
+*.bin
