@@ -1,0 +1,5 @@
+# macOS system files
+.DS_Store
+
+# Exclude dataset folder (optional if datasets are large or private)
+dataset/
